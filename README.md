@@ -78,7 +78,7 @@ Improves API usability and clarity
 
 Step-by-Step Explanation
 🔹 Step 1: Clone the repository
-git clone https://github.com/your-username/mini-crm-backend.git
+git clone https://github.com/Technology-Manasi/mini-crm-backend.git
 cd mini-crm-backend
 
 
