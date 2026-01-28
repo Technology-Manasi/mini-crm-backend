@@ -1,6 +1,6 @@
-📘 Mini CRM Backend – Prysm Labs Assignment
+Mini CRM Backend – Prysm Labs Assignment
 
-(Detailed Explanation of README.md)
+
 
 1️⃣ Project Title
 # Mini CRM Backend – Prysm Labs Assignment
@@ -208,19 +208,11 @@ http://localhost:3000/api
 
 Register a user
 POST /auth/register
-
 Login and get JWT token
 POST /auth/login
-
 Click Authorize and paste:
-
 Bearer <accessToken>
-
-
 Test protected APIs:
-
 /users (ADMIN only)
-
 /customers
-
 /tasks
